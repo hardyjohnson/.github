@@ -6,7 +6,7 @@
 |__/|__/\__,_/_/   \__,_/\___/_/ /_/ 
 ```
 
-Warden is a local development environment manager, specializing in PHP applications with special features for Magento, Laravel, Shopware, Symfony, and Wordpress.
+Warden is a local development environment manager, specializing in PHP applications with special features for Drupal, Laravel, Magento, Shopware, Symfony, and Wordpress.
 
 # Install via Homebrew
 
@@ -16,7 +16,7 @@ warden svc up
 ```
 
 # Minimal Dependencies
-<p>Requires only <a class="link" href="https://brew.sh" target="_blank">Homebrew</a>, <a href="https://docs.docker.com/install/" class="link" target="_blank">Docker</a>, and <a href="https://docs.docker.com/compose/install/" class="link" target="_blank">Docker Compose</a> to get started, and <a href="https://mutagen.io/" class="link" target="_blank">Mutagen</a> on macOS (for Magento 2 file sync).</p>
+<p>Requires only <a href="https://docs.docker.com/install/" class="link" target="_blank">Docker</a>, and <a href="https://docs.docker.com/compose/install/" class="link" target="_blank">Docker Compose</a> to get started, and <a href="https://mutagen.io/" class="link" target="_blank">Mutagen</a> on macOS (for Magento 2 file sync).</p>
 
 # Feature List
 <ul class="list--indented">
